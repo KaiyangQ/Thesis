@@ -1,0 +1,48 @@
+Of course. That's a great idea for documenting your work. When you add the code to save the 2D results, you can also add a new text/markdown cell in your notebook with the following detailed description.
+
+This explains what each column in the `turning_project_2d_features.csv` file represents. You can also save this text as a `README.md` file in the same folder for future reference.
+
+---
+
+### **Description for `turning_project_2d_features.csv`**
+
+#### **File Overview**
+This CSV file contains the complete dataset with calculated kinematic features derived from the **2D keypoint data**. Each row corresponds to a single turning instance and combines the original human-provided labels with a set of new features computed from the movement sequence. The data is ready for statistical analysis and machine learning tasks.
+
+#### **Column Descriptions**
+
+The columns can be grouped into two categories: original labels and calculated features.
+
+**1. Original Label Columns (from `Turning_human_labels.csv`)**
+
+* `Turn ID`: A unique identifier for each specific turn.
+* `Participant ID number`: A unique identifier for each person in the study.
+* `PD_or_C`: The diagnosis of the participant. ('PD' = Parkinson's Disease, 'C' = Healthy Control).
+* `number_of_turning_steps`: The number of steps counted by a human rater to complete the turn.
+* `turning_angle`: The target angle of the turn (e.g., '90_degrees').
+* `type_of_turn`: The strategy used for turning as rated by a human ('pivot_turn' or 'step_turn').
+* `turning_duration`: The duration of the turn in seconds, as measured by a human rater.
+* `On_or_Off_medication`: For PD patients, their medication status ('On medication', 'Off medication', or 'Control' for healthy participants).
+* `DBS_state`: The status of Deep Brain Stimulation for the participant ('Control' if not applicable).
+* `clinical_assessment`: Indicates if a clinical assessment was performed ('Yes' or 'No').
+
+**2. Calculated 2D Kinematic Feature Columns**
+
+These features were calculated from the 2D keypoint data for each turn, assuming a frame rate of 30 fps. They primarily focus on the kinematics of the **pelvis (joint 0)** and the **trunk (shoulders)**.
+
+* `duration_frames`: The total number of frames in the keypoint data sequence for the turn.
+* `duration_sec`: The turn duration in seconds, calculated as `duration_frames / 30.0`.
+* `pelvis_path_length`: The total distance traveled by the pelvis (joint 0) in the 2D plane over all frames. (Unit: pixels).
+* `pelvis_displacement`: The straight-line Euclidean distance between the start position and end position of the pelvis. (Unit: pixels).
+* `pelvis_avg_speed`: The average speed of the pelvis during the turn. (Unit: pixels/second).
+* `pelvis_peak_speed`: The maximum speed achieved by the pelvis during the turn. (Unit: pixels/second).
+* `pelvis_avg_accel_mag`: The average magnitude of the pelvis's acceleration. (Unit: pixels/second²).
+* `pelvis_peak_accel_mag`: The maximum magnitude of the pelvis's acceleration. (Unit: pixels/second²).
+* `pelvis_avg_jerk_mag`: The average magnitude of the pelvis's jerk. Jerk is the rate of change of acceleration and is a measure of movement smoothness. Higher values indicate less smooth or "jerkier" movement. (Unit: pixels/second³).
+* `trunk_total_rotation_rad`: The total rotation of the trunk in the 2D plane, calculated using the vector between the left and right shoulders. (Unit: radians).
+* `trunk_total_rotation_deg`: Same as above, but converted to degrees.
+* `trunk_avg_ang_vel`: The average angular velocity (speed of rotation) of the trunk. (Unit: radians/second).
+* `trunk_peak_ang_vel`: The peak angular velocity of the trunk. (Unit: radians/second).
+* `bbox_width`: The width of the 2D bounding box that encloses all keypoints throughout the entire turn. Provides a measure of the maximum space occupied horizontally. (Unit: pixels).
+* `bbox_height`: The height of the 2D bounding box. Provides a measure of the maximum space occupied vertically. (Unit: pixels).
+* `bbox_area`: The total area of the 2D bounding box (`width * height`). Represents the overall spatial extent of the movement. (Unit: pixels²).

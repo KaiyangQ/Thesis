@@ -1,0 +1,500 @@
+Transition ID,Participant ID number,PD_or_C,sts_whole_episode_duration,sts_final_attempt_duration,On_or_Off_medication,DBS_state,Clinical_assessment,STS_additional_features,MDS-UPDRS_score_3.9 _arising_from_chair
+1,596,PD,1.748,1.209,On medication,-,Yes,,0.0
+2,596,PD,2.085,1.076999,On medication,-,Yes,,0.0
+3,596,PD,2.61,1.067999,On medication,-,Yes,Uses arms of chair,2.0
+4,596,PD,2.478999,1.233,On medication,-,Yes,Slow,1.0
+5,596,PD,1.268,0.801,On medication,-,Yes,,0.0
+6,596,PD,1.756,0.86,On medication,-,Yes,,0.0
+8,596,PD,1.917,0.792999,On medication,-,No,Uses arms of chair,2.0
+12,596,PD,2.293,1.245,Off medication,-,No,Carrying something,0.0
+15,596,PD,4.283999,1.618,Off medication,-,No,">1 attempt
+moves forward in chair
+Carrying something",1.0
+17,596,PD,3.031,1.599,Off medication,-,No,Slow,1.0
+19,596,PD,2.39,1.196999,Off medication,-,Yes,,0.0
+20,596,PD,2.946999,1.234999,Off medication,-,Yes,Uses arms of chair,2.0
+22,596,PD,1.823,1.010999,Off medication,-,Yes,,0.0
+24,596,PD,2.125,0.975999,Off medication,-,No,,0.0
+26,596,PD,2.966999,1.383,On medication,-,Yes,Uses arms of chair,2.0
+27,596,PD,1.836,0.885999,On medication,-,Yes,,0.0
+28,596,PD,2.939,0.956999,On medication,-,Yes,Uses arms of chair,2.0
+29,596,PD,2.679,1.133999,On medication,-,Yes,Uses arms of chair,2.0
+30,596,PD,3.612999,1.548,On medication,-,Yes,Uses arms of chair,2.0
+31,596,PD,1.965999,1.068,On medication,-,Yes,Uses arms of chair,2.0
+32,596,PD,1.733,1.231,On medication,-,No,Uses arms of chair,2.0
+33,227,C,2.312,1.827999,Control,Control,No,,
+34,227,C,1.958,1.215,Control,Control,Yes,,0.0
+35,227,C,1.989999,1.101,Control,Control,Yes,,0.0
+36,227,C,1.943,0.753999,Control,Control,Yes,,0.0
+37,227,C,1.281,0.776,Control,Control,Yes,,0.0
+39,227,C,2.218,0.920999,Control,Control,No,Uses arms of chair,2.0
+44,227,C,4.855,2.766999,Control,Control,Yes,Slow,
+45,227,C,1.897,1.039,Control,Control,Yes,,0.0
+50,275,PD,2.502,1.632,-,On DBS,Yes,Slow,1.0
+51,275,PD,2.477999,1.103999,-,On DBS,Yes,Uses arms of chair,2.0
+52,275,PD,2.196999,1.351,-,On DBS,Yes,Uses arms of chair,2.0
+53,275,PD,1.532,0.887,-,On DBS,Yes,Uses arms of chair,2.0
+54,275,PD,2.080999,0.941999,-,On DBS,Yes,Uses arms of chair,2.0
+55,275,PD,1.479,0.856,-,On DBS,Yes,Uses arms of chair,2.0
+56,275,PD,2.218,1.165999,-,On DBS,Yes,"Uses arms of chair
+Slow",2.0
+57,275,PD,1.534,0.959,-,On DBS,Yes,Uses arms of chair,2.0
+62,275,PD,4.015,2.0,-,On DBS,No,"Carrying something
+Slow",1.0
+63,275,PD,1.727,1.1,-,On DBS,No,Carrying something,0.0
+64,275,PD,3.086,1.552999,-,On DBS,No,Slow,1.0
+71,275,PD,3.336999,3.336999,-,On DBS,No,"Slow
+Uses arms of chair",2.0
+73,275,PD,3.271,1.479,-,On DBS,Yes,Slow,1.0
+75,275,PD,3.125,1.728,-,On DBS,Yes,"Uses arms of chair
+Slow",2.0
+76,275,PD,1.877999,1.152,-,On DBS,Yes,Uses arms of chair,2.0
+77,275,PD,2.885999,1.864,-,On DBS,Yes,Slow,1.0
+78,275,PD,2.944999,2.227,-,On DBS,Yes,"Slow
+Uses arms of chair",2.0
+79,275,PD,1.676,1.067,-,On DBS,Yes,Uses arms of chair,2.0
+80,275,PD,2.700999,1.044999,-,On DBS,Yes,,0.0
+81,275,PD,1.838,0.94,-,On DBS,No,,0.0
+86,275,PD,3.868,1.489999,-,Off DBS,Yes,"Slow
+Uses arms of chair",2.0
+87,275,PD,4.876,2.391,-,Off DBS,Yes,"Slow
+Uses arms of chair",2.0
+89,275,PD,2.843,1.549999,-,Off DBS,Yes,Slow,1.0
+90,275,PD,3.415,1.040999,-,Off DBS,Yes,Slow,1.0
+91,275,PD,2.303,1.245999,-,Off DBS,Yes,,0.0
+101,275,PD,8.294,5.181999,-,On DBS,No,"Slow
+Uses arms of chair",2.0
+102,325,C,4.749,3.946,Control,Control,No,Carrying something,0.0
+103,325,C,0.968999,0.816999,Control,Control,Yes,,0.0
+104,325,C,1.764999,1.103,Control,Control,Yes,,0.0
+105,325,C,1.37,0.595,Control,Control,Yes,,0.0
+108,325,C,2.204,1.066,Control,Control,No,,0.0
+109,325,C,2.928999,1.236,Control,Control,No,,0.0
+111,325,C,4.249999,1.397,Control,Control,No,Uses arms of chair,2.0
+112,325,C,1.936999,1.000999,Control,Control,No,Uses arms of chair,2.0
+115,325,C,2.166,0.956999,Control,Control,Yes,,0.0
+117,325,C,2.0,1.0,Control,Control,Yes,,0.0
+118,325,C,1.249999,0.848999,Control,Control,Yes,,0.0
+119,325,C,0.75,0.75,Control,Control,Yes,,0.0
+121,405,C,1.496,1.206999,Control,Control,No,Uses arms of chair,2.0
+122,405,C,1.805999,0.966999,Control,Control,No,Carrying something,0.0
+125,405,C,2.095,0.741999,Control,Control,Yes,,0.0
+126,405,C,1.305,0.65,Control,Control,Yes,,0.0
+127,405,C,1.45,0.612,Control,Control,Yes,,0.0
+128,405,C,2.344999,1.101999,Control,Control,Yes,,0.0
+143,405,C,2.744999,2.031,Control,Control,No,Uses arms of chair,2.0
+157,405,C,2.058,0.952,Control,Control,Yes,,0.0
+158,405,C,1.87,1.27,Control,Control,Yes,,0.0
+159,405,C,1.5,0.772,Control,Control,Yes,,0.0
+160,405,C,3.272999,1.236999,Control,Control,Yes,"Moves forward in chair
+Uses arms of chair",2.0
+161,405,C,2.072,1.255,Control,Control,Yes,,0.0
+162,405,C,1.31,0.858999,Control,Control,Yes,,0.0
+174,412,PD,5.951,2.399,On medication,-,Yes,"Slow
+>1 attempt",1.0
+178,412,PD,2.180999,1.345,On medication,-,Yes,Uses arms of chair,2.0
+179,412,PD,1.884999,0.883,On medication,-,Yes,Uses arms of chair,2.0
+180,412,PD,1.609999,0.919,On medication,-,Yes,Uses arms of chair,2.0
+181,412,PD,1.664999,0.815,On medication,-,Yes,Uses arms of chair,2.0
+182,412,PD,5.118,4.238,On medication,-,Yes,"Uses arms of chair
+Slow",2.0
+184,412,PD,2.121999,1.636,On medication,-,No,Uses arms of chair,2.0
+187,412,PD,4.622999,1.805999,On medication,-,No,"Uses arms of chair
+Slow
+>1 attempt",3.0
+188,412,PD,2.911,1.199,On medication,-,No,>1 attempt,1.0
+189,412,PD,1.618999,1.618999,On medication,-,No,,0.0
+190,412,PD,2.091,2.091,On medication,-,No,"Uses arms of chair
+Slow",2.0
+192,412,PD,1.451,1.025999,On medication,-,No,Uses arms of chair,2.0
+198,412,PD,2.794,2.06,Off medication,-,Yes,"Uses arms of chair
+Slow",2.0
+199,412,PD,2.928999,2.591,Off medication,-,Yes,"Uses arms of chair
+Slow",2.0
+200,412,PD,2.428,2.098,Off medication,-,Yes,"Uses arms of chair
+Slow",2.0
+201,412,PD,2.428999,2.140999,Off medication,-,Yes,"Uses arms of chair
+Slow",2.0
+203,412,PD,3.357,3.357,Off medication,-,Yes,"Uses arms of chair
+Slow",2.0
+204,412,PD,2.964,1.366,On medication,-,No,Slow,1.0
+205,412,PD,1.374999,0.975,On medication,-,No,Uses arms of chair,2.0
+206,412,PD,1.042,0.715,On medication,-,No,Uses arms of chair,2.0
+210,884,C,1.971999,0.790999,Control,Control,Yes,,0.0
+212,884,C,1.814,1.007,Control,Control,Yes,Uses arms of chair,2.0
+213,884,C,1.879,1.037999,Control,Control,Yes,,0.0
+217,884,C,3.557999,2.133,Control,Control,No,Uses arms of chair,2.0
+218,884,C,2.088999,1.717999,Control,Control,No,,0.0
+219,884,C,1.191,1.191,Control,Control,No,Uses arms of chair,2.0
+220,884,C,1.624999,1.572999,Control,Control,No,"Uses arms of chair
+Carrying something",2.0
+221,884,C,0.785999,0.785999,Control,Control,No,Uses arms of chair,2.0
+224,884,C,1.741999,1.696999,Control,Control,No,"Uses arms of chair
+Slow",2.0
+226,884,C,0.801,0.801,Control,Control,Yes,Uses arms of chair,2.0
+227,884,C,1.05,0.983,Control,Control,Yes,,
+228,884,C,1.0,0.575,Control,Control,Yes,Uses arms of chair,2.0
+229,884,C,0.577999,0.577999,Control,Control,Yes,,0.0
+230,884,C,0.924999,0.808,Control,Control,Yes,,0.0
+231,884,C,0.949999,0.799999,Control,Control,Yes,"Slow
+Uses arms of chair",2.0
+234,631,PD,0.863999,0.868,On medication,On DBS,Yes,,0.0
+235,631,PD,1.614,0.902999,On medication,On DBS,Yes,,0.0
+237,631,PD,1.204,1.04,On medication,On DBS,Yes,,0.0
+238,631,PD,1.172,0.645999,On medication,On DBS,Yes,,0.0
+239,631,PD,1.164,0.806,On medication,On DBS,Yes,,0.0
+242,631,PD,2.253,1.760999,On medication,On DBS,No,"Uses arms of chair
+Slow",2.0
+248,631,PD,1.375,0.884,Off medication,Off DBS,Yes,,0.0
+250,631,PD,3.465,1.352,Off medication,Off DBS,Yes,">1 attempt
+Slow",1.0
+252,631,PD,1.952999,1.343999,Off medication,Off DBS,Yes,,0.0
+256,631,PD,3.356999,2.484999,Off medication,Off DBS,Yes,"Uses arms of chair
+Slow",2.0
+258,631,PD,2.834,1.056999,On medication,On DBS,Yes,,0.0
+263,631,PD,2.576999,1.659999,On medication,On DBS,Yes,"Uses arms of chair
+Slow",2.0
+267,396,PD,1.697999,1.772999,On medication,-,No,Slow,1.0
+268,396,PD,3.894,2.04,On medication,-,No,"Uses arms of chair
+Slow",2.0
+270,396,PD,6.986,2.662999,On medication,-,No,"Uses arms of chair
+Slow",2.0
+272,396,PD,4.835,3.164,On medication,-,No,"Uses arms of chair
+Slow",2.0
+274,396,PD,1.829,1.829,On medication,-,No,"Carrying something
+Slow",1.0
+275,396,PD,2.449,1.182,On medication,-,No,Uses arms of chair,2.0
+276,396,PD,2.864,1.635,On medication,-,No,"Uses arms of chair
+Slow",2.0
+278,396,PD,2.784,1.491,On medication,-,No,"Slow
+Uses arms of chair",2.0
+279,396,PD,10.428,6.172,On medication,-,No,"Slow
+>1 attempt
+Moves forward in chair
+Uses arms of chair",3.0
+280,396,PD,6.116,2.388,On medication,-,No,"Uses arms of chair
+Slow
+>1 attempt
+Moves forward in chair",3.0
+281,396,PD,13.340999,6.536999,On medication,-,No,"Uses arms of chair
+Slow
+>1 attempt
+Moves forward in chair",3.0
+283,396,PD,3.399999,1.888999,Off medication,-,No,Slow,1.0
+284,396,PD,2.384999,1.529,Off medication,-,Yes,"Slow
+Uses arms of chair",2.0
+285,396,PD,3.646,1.382,Off medication,-,Yes,Tends to fall back,1.0
+286,396,PD,1.249999,0.632,Off medication,-,Yes,,0.0
+287,396,PD,1.484,0.776999,Off medication,-,Yes,,0.0
+290,396,PD,1.467,1.405999,On medication,-,Yes,Uses arms of chair,2.0
+293,396,PD,3.979999,2.437999,On medication,-,Yes,"Slow
+Uses arms of chair",2.0
+295,396,PD,2.16,1.596999,On medication,-,Yes,"Slow
+Uses arms of chair",2.0
+296,396,PD,1.955,1.371,On medication,-,Yes,,0.0
+299,396,PD,3.580999,2.548,On medication,-,Yes,"Slow
+Uses arms of chair",2.0
+301,204,C,0.788,0.788,Control,Control,No,,0.0
+305,204,C,2.45,1.457,Control,Control,No,Carrying something,0.0
+306,204,C,1.249999,1.043,Control,Control,No,,0.0
+307,204,C,1.457999,1.252,Control,Control,No,,0.0
+316,204,C,1.351,0.914,Control,Control,No,Uses arms of chair,2.0
+317,204,C,2.458,0.859,Control,Control,No,Uses arms of chair,2.0
+318,204,C,2.575999,1.061999,Control,Control,Yes,Uses arms of chair,2.0
+319,204,C,1.548999,0.725999,Control,Control,Yes,,0.0
+320,204,C,1.744999,0.958999,Control,Control,Yes,,0.0
+321,204,C,1.99,0.827,Control,Control,Yes,,0.0
+322,204,C,1.523,0.836999,Control,Control,Yes,,0.0
+323,204,C,1.570999,0.679,Control,Control,Yes,,0.0
+325,204,C,1.724999,1.0,Control,Control,No,,0.0
+327,204,C,1.362999,0.973,Control,Control,No,Uses arms of chair,2.0
+328,204,C,1.923999,1.136,Control,Control,No,Carrying something,0.0
+329,842,PD,2.239,1.223,On medication,On DBS,No,Slow,1.0
+330,842,PD,1.587,0.885999,On medication,On DBS,Yes,Uses arms of chair,2.0
+331,842,PD,1.752999,0.953999,On medication,On DBS,Yes,,0.0
+332,842,PD,1.871,0.963,On medication,On DBS,Yes,,0.0
+333,842,PD,2.495999,0.884999,On medication,On DBS,Yes,,0.0
+334,842,PD,1.665999,1.068,On medication,On DBS,Yes,Uses arms of chair,2.0
+335,842,PD,2.663,1.091,On medication,On DBS,Yes,"Moves forward in chair
+Uses arms of chair",3.0
+336,842,PD,1.446,0.637,On medication,On DBS,Yes,Uses arms of chair,2.0
+337,842,PD,3.357999,0.958,On medication,On DBS,Yes,"Uses arms of chair
+>1 attempt",3.0
+341,842,PD,2.419,1.869999,Off medication,On DBS,No,Slow,1.0
+342,842,PD,3.5,1.948,Off medication,On DBS,No,"Uses arms of chair
+Slow",2.0
+343,842,PD,5.56,4.891,Off medication,On DBS,No,"Uses arms of chair
+Slow",2.0
+346,842,PD,9.001999,7.390999,Off medication,Off DBS,No,"Slow
+Uses arms of chair
+Unable to arise without help",4.0
+349,842,PD,2.237999,1.436,Off medication,Off DBS,Yes,"Uses arms of chair
+Slow",2.0
+351,842,PD,7.0,3.465999,Off medication,On DBS,No,"Slow
+Uses arms of chair",2.0
+355,842,PD,2.695,0.934,Off medication,On DBS,Yes,Uses arms of chair,2.0
+357,842,PD,3.749999,1.266,Off medication,On DBS,Yes,"Uses arms of chair
+Slow",2.0
+358,842,PD,3.771999,1.431,Off medication,On DBS,Yes,"Uses arms of chair
+Slow",2.0
+359,842,PD,3.852999,1.326999,Off medication,On DBS,No,"Uses arms of chair
+Slow",2.0
+360,842,PD,13.670999,8.507999,Off medication,On DBS,No,"Slow
+Uses arms of chair",2.0
+362,842,PD,2.112,1.216,On medication,On DBS,Yes,,0.0
+363,842,PD,4.055,0.908999,On medication,On DBS,Yes,">1 attempt
+Slow",1.0
+364,842,PD,2.072999,1.000999,On medication,On DBS,Yes,,0.0
+365,842,PD,3.965,1.346999,On medication,On DBS,Yes,">1 attempt
+Slow",1.0
+366,842,PD,1.786999,0.996,On medication,On DBS,Yes,Uses arms of chair,2.0
+367,842,PD,1.932999,0.806999,On medication,On DBS,Yes,Uses arms of chair,2.0
+368,842,PD,1.74,0.856,On medication,On DBS,Yes,Uses arms of chair,2.0
+369,842,PD,2.468,1.55,On medication,On DBS,Yes,"Uses arms of chair
+Tends to fall back",3.0
+375,230,C,1.701999,0.761,Control,Control,Yes,,0.0
+376,230,C,1.500999,0.783,Control,Control,Yes,,0.0
+379,230,C,0.967999,0.611,Control,Control,Yes,Uses arms of chair,2.0
+380,230,C,1.007,0.606999,Control,Control,Yes,Uses arms of chair,2.0
+386,230,C,1.285999,0.950999,Control,Control,No,,0.0
+387,230,C,1.441,1.441,Control,Control,No,,0.0
+389,230,C,1.231,1.231,Control,Control,No,Carrying something,0.0
+390,230,C,3.0,1.574,Control,Control,No,,0.0
+392,230,C,1.627,1.392,Control,Control,No,,0.0
+398,230,C,2.3,1.195,Control,Control,No,Carrying something,0.0
+399,230,C,2.191999,1.354,Control,Control,No,,0.0
+400,230,C,1.466,1.13,Control,Control,No,Carrying something,0.0
+401,230,C,3.266,1.247,Control,Control,No,Uses arms of chair,2.0
+403,230,C,1.73,1.662999,Control,Control,No,,0.0
+404,230,C,1.725999,1.524,Control,Control,No,Carrying something,0.0
+405,230,C,1.502,0.771,Control,Control,No,Uses arms of chair,2.0
+406,230,C,2.251,0.81,Control,Control,No,Uses arms of chair,2.0
+407,230,C,2.158999,0.825999,Control,Control,No,Carrying something,0.0
+416,230,C,0.88,0.88,Control,Control,No,Carrying something,0.0
+417,230,C,1.191,0.99,Control,Control,No,Carrying something,0.0
+418,230,C,2.004999,0.945,Control,Control,No,Carrying something,0.0
+420,230,C,1.315,0.998,Control,Control,No,Carrying something,0.0
+421,230,C,2.249999,0.986999,Control,Control,No,Carrying something,0.0
+422,230,C,1.75,1.087,Control,Control,No,Carrying something,0.0
+424,230,C,2.556,1.083,Control,Control,No,Uses arms of chair,2.0
+426,230,C,1.441999,0.908,Control,Control,No,Uses arms of chair,2.0
+428,230,C,1.43,0.589999,Control,Control,Yes,,0.0
+429,230,C,1.049,0.507,Control,Control,Yes,,0.0
+430,230,C,1.523999,0.646,Control,Control,Yes,Uses arms of chair,2.0
+434,230,C,1.726,0.933999,Control,Control,No,"Uses arms of chair
+Carrying something",2.0
+438,324,PD,1.647,0.791,On medication,-,Yes,,0.0
+439,324,PD,1.629999,0.782,On medication,-,Yes,,0.0
+440,324,PD,2.016,0.85,On medication,-,Yes,,0.0
+441,324,PD,1.716999,0.531999,On medication,-,Yes,,0.0
+447,324,PD,2.068,1.315999,On medication,-,No,,
+451,324,PD,2.674999,0.685999,Off medication,-,Yes,,0.0
+452,324,PD,2.232,1.240999,Off medication,-,Yes,,0.0
+454,324,PD,2.192,0.873999,Off medication,-,Yes,,0.0
+455,324,PD,1.507,0.622,Off medication,-,Yes,,0.0
+459,324,PD,2.347,0.783999,On medication,-,Yes,,0.0
+460,324,PD,1.724999,0.988,On medication,-,Yes,,0.0
+461,324,PD,1.71,0.751999,On medication,-,Yes,,0.0
+462,324,PD,1.398,0.464999,On medication,-,Yes,,0.0
+463,324,PD,1.911,0.782999,On medication,-,Yes,,0.0
+464,400,C,2.574999,1.775,Control,Control,No,"Uses arms of chair
+Slow",2.0
+465,400,C,1.693,0.943,Control,Control,No,Uses arms of chair,2.0
+473,400,C,1.204,0.98,Control,Control,No,"Uses arms of chair
+Slow",2.0
+474,400,C,3.113,1.968999,Control,Control,No,"Uses arms of chair
+Slow",2.0
+475,400,C,2.292,1.83,Control,Control,No,,0.0
+476,400,C,2.068,1.671,Control,Control,No,Uses arms of chair,2.0
+477,400,C,1.942,0.922999,Control,Control,No,Uses arms of chair,2.0
+479,400,C,1.695,0.709999,Control,Control,Yes,,0.0
+480,400,C,1.897999,1.103,Control,Control,Yes,,0.0
+481,400,C,0.801999,0.445,Control,Control,Yes,,0.0
+482,400,C,1.344999,0.620999,Control,Control,Yes,,0.0
+486,467,PD,1.897999,0.846999,On medication,-,Yes,,0.0
+487,467,PD,2.115,0.735,On medication,-,Yes,Uses arms of chair,2.0
+488,467,PD,2.161,1.056,On medication,-,Yes,Uses arms of chair,2.0
+489,467,PD,1.732,1.104,On medication,-,Yes,,0.0
+490,467,PD,1.248999,0.717999,On medication,-,Yes,,0.0
+491,467,PD,1.349,0.742,On medication,-,Yes,,0.0
+493,467,PD,1.806,0.852,On medication,-,Yes,Uses arms of chair,2.0
+495,467,PD,2.903999,1.072,On medication,-,No,Uses arms of chair,2.0
+497,467,PD,4.117,2.765999,On medication,-,No,"Carrying something
+Slow",1.0
+499,467,PD,1.764999,1.207,On medication,-,No,Uses arms of chair,2.0
+501,467,PD,2.223,1.312,Off medication,-,No,"Uses arms of chair
+Slow",2.0
+502,467,PD,1.798,0.832,Off medication,-,Yes,,0.0
+503,467,PD,2.174,1.023,Off medication,-,Yes,Uses arms of chair,2.0
+504,467,PD,1.925999,1.087,Off medication,-,Yes,Uses arms of chair,2.0
+508,467,PD,2.114,0.672,On medication,-,Yes,,0.0
+509,467,PD,1.523,0.892999,On medication,-,Yes,Uses arms of chair,2.0
+510,467,PD,1.659999,0.620999,On medication,-,Yes,,0.0
+513,634,C,1.612999,0.735,Control,Control,Yes,,0.0
+514,634,C,1.644999,0.885,Control,Control,Yes,,0.0
+515,634,C,0.566,0.566,Control,Control,Yes,,0.0
+516,634,C,0.764,0.5,Control,Control,Yes,,0.0
+519,634,C,2.679,0.892999,Control,Control,No,Uses arms of chair,2.0
+520,634,C,1.881999,1.544,Control,Control,No,"Uses arms of chair
+Slow",2.0
+522,634,C,3.399,1.512,Control,Control,No,"Uses arms of chair
+Carrying something
+Slow",2.0
+523,634,C,2.727999,1.428,Control,Control,No,"Uses arms of chair
+Slow",2.0
+524,634,C,2.087,1.518,Control,Control,No,"Uses arms of chair
+Slow
+Carrying something",2.0
+526,634,C,1.556,1.343,Control,Control,Yes,Uses arms of chair,2.0
+527,634,C,2.303,1.024,Control,Control,Yes,Uses arms of chair,2.0
+528,634,C,1.471999,0.532,Control,Control,Yes,,0.0
+529,634,C,1.22,0.485999,Control,Control,Yes,Uses arms of chair,2.0
+530,634,C,1.664999,0.624,Control,Control,Yes,Uses arms of chair,2.0
+532,634,C,1.032,0.724,Control,Control,Yes,Uses arms of chair,2.0
+535,744,PD,2.240999,1.59,On medication,-,No,"Slow
+Uses arms of chair",2.0
+537,744,PD,2.045,0.962999,On medication,-,Yes,,0.0
+538,744,PD,2.158999,1.293999,On medication,-,Yes,Slow,1.0
+539,744,PD,1.680999,1.090999,On medication,-,Yes,Slow,1.0
+540,744,PD,1.675,0.895,On medication,-,Yes,,0.0
+541,744,PD,1.25,0.365999,On medication,-,Yes,,0.0
+542,744,PD,1.599999,0.704,On medication,-,Yes,,0.0
+544,744,PD,1.875,0.978,On medication,-,Yes,Uses arms of chair,2.0
+545,744,PD,1.975,1.047,On medication,-,No,Uses arms of chair,2.0
+546,744,PD,3.512999,1.634999,On medication,-,No,"Slow
+Carrying something",1.0
+548,744,PD,2.729999,1.655,On medication,-,No,Slow,1.0
+549,744,PD,1.764,1.831,On medication,-,No,Slow,1.0
+556,744,PD,5.665999,1.456,Off medication,-,No,Slow,1.0
+558,744,PD,2.84,1.556,Off medication,-,No,Slow,1.0
+559,744,PD,2.031,0.710999,On medication,-,Yes,,0.0
+560,744,PD,2.843,1.303,On medication,-,Yes,Slow,1.0
+562,744,PD,1.875,0.391,On medication,-,Yes,,0.0
+563,744,PD,1.749999,0.719,On medication,-,Yes,,0.0
+564,744,PD,1.0,0.567,On medication,-,Yes,,0.0
+565,744,PD,2.657,0.812999,On medication,-,Yes,,0.0
+570,744,PD,2.124999,1.792,On medication,-,No,Slow,1.0
+579,744,PD,1.852999,1.971,Off medication,-,Yes,Slow,1.0
+581,744,PD,2.265,0.68,Off medication,-,No,,0.0
+586,744,PD,2.308,0.826,On medication,-,Yes,,0.0
+590,744,PD,2.590999,2.590999,On medication,-,No,"Slow
+Carrying something",1.0
+591,744,PD,2.72,2.394999,On medication,-,No,"Slow
+Carrying something",1.0
+594,784,C,3.094,0.488,Control,Control,Yes,,0.0
+595,784,C,3.666,0.819,Control,Control,Yes,,0.0
+597,784,C,1.571,0.861999,Control,Control,Yes,,0.0
+598,784,C,2.285999,0.815,Control,Control,Yes,,0.0
+600,784,C,3.024,0.884999,Control,Control,No,,0.0
+605,784,C,1.840999,0.931,Control,Control,No,Carrying something,0.0
+606,784,C,1.295,1.41,Control,Control,No,Carrying something,0.0
+607,784,C,1.704999,1.240999,Control,Control,No,Uses arms of chair,2.0
+616,784,C,2.062999,0.863,Control,Control,Yes,,0.0
+617,784,C,1.562,0.853999,Control,Control,Yes,,0.0
+618,784,C,2.061999,0.805999,Control,Control,Yes,,0.0
+619,784,C,2.093999,0.716999,Control,Control,Yes,Uses arms of chair,2.0
+622,784,C,1.968,1.870999,Control,Control,No,Slow,
+624,784,C,6.028999,4.804,Control,Control,No,"Slow
+Uses arms of chair
+Carrying something
+>1 attempt",3.0
+625,784,C,1.886,0.747999,Control,Control,Yes,,0.0
+626,784,C,1.772999,0.713999,Control,Control,Yes,,0.0
+627,784,C,1.636,0.596,Control,Control,Yes,,0.0
+628,784,C,1.635999,0.823,Control,Control,Yes,,0.0
+629,784,C,0.796,0.538999,Control,Control,Yes,,0.0
+633,398,PD,2.221999,1.34,On medication,-,No,"Uses arms of chair
+Slow",2.0
+634,398,PD,1.845999,0.948,On medication,-,Yes,,0.0
+636,398,PD,2.716,1.514999,On medication,-,Yes,,0.0
+645,398,PD,2.571,0.682,Off medication,-,Yes,,0.0
+646,398,PD,2.61,1.604999,Off medication,-,Yes,Slow,1.0
+647,398,PD,1.577,0.938999,Off medication,-,Yes,,0.0
+648,398,PD,2.723,1.036,Off medication,-,Yes,,0.0
+649,398,PD,1.715999,0.91,Off medication,-,Yes,,0.0
+650,398,PD,2.065999,1.149,Off medication,-,Yes,,0.0
+651,398,PD,1.568999,1.191,Off medication,-,No,,0.0
+653,398,PD,1.0,0.651,On medication,-,Yes,,0.0
+661,495,C,2.221999,1.448,Control,Control,No,Slow,
+662,495,C,1.188999,0.64,Control,Control,Yes,,0.0
+663,495,C,1.288999,0.812999,Control,Control,Yes,,0.0
+664,495,C,0.998999,0.613,Control,Control,Yes,,0.0
+665,495,C,1.086999,0.935,Control,Control,Yes,,0.0
+675,495,C,2.045,1.099,Control,Control,Yes,,0.0
+676,495,C,1.878999,1.02,Control,Control,Yes,,0.0
+677,495,C,1.968,0.708,Control,Control,Yes,,0.0
+678,495,C,0.644,0.864,Control,Control,Yes,,0.0
+698,253,PD,1.532,0.752999,On medication,-,Yes,,0.0
+699,253,PD,1.745999,0.822999,On medication,-,Yes,,0.0
+700,253,PD,1.429999,1.103999,On medication,-,Yes,,0.0
+701,253,PD,1.092999,0.936,On medication,-,Yes,,0.0
+702,253,PD,2.038,1.044999,On medication,-,Yes,,0.0
+703,253,PD,1.740999,1.1,On medication,-,Yes,,0.0
+705,253,PD,2.272,1.943,On medication,-,No,"Uses arms of chair
+Slow",2.0
+709,253,PD,4.072,2.643,On medication,-,No,"Uses arms of chair
+Slow",2.0
+712,253,PD,2.432,2.432,On medication,-,No,"Uses arms of chair
+Slow",2.0
+717,253,PD,2.466999,0.802999,Off medication,-,Yes,,0.0
+718,253,PD,2.2,0.98,Off medication,-,Yes,,0.0
+719,253,PD,1.452999,0.875,Off medication,-,Yes,,0.0
+720,253,PD,1.242,0.949,Off medication,-,Yes,Uses arms of chair,2.0
+721,253,PD,1.0,0.937,Off medication,-,Yes,Uses arms of chair,2.0
+722,253,PD,2.327,1.532999,Off medication,-,Yes,"Uses arms of chair
+Slow",2.0
+723,253,PD,2.134,0.692,On medication,-,Yes,,0.0
+724,253,PD,1.605,1.12,On medication,-,Yes,Uses arms of chair,2.0
+725,253,PD,0.86,0.748999,On medication,-,Yes,Uses arms of chair,2.0
+726,253,PD,1.022,0.535,On medication,-,Yes,Uses arms of chair,2.0
+728,416,C,1.781999,0.796,Control,Control,Yes,,0.0
+729,416,C,1.771999,0.892,Control,Control,Yes,,0.0
+730,416,C,0.888999,0.576,Control,Control,Yes,,0.0
+731,416,C,0.888999,0.542999,Control,Control,Yes,,0.0
+732,416,C,1.554,0.604,Control,Control,Yes,,0.0
+736,416,C,3.122999,1.818999,Control,Control,No,Slow,1.0
+737,416,C,4.164999,2.32,Control,Control,No,"Uses arms of chair
+Slow",2.0
+751,416,C,1.308,0.699,Control,Control,No,,0.0
+754,384,PD,2.064,1.6,On medication,On DBS,No,"Uses arms of chair
+Slow",2.0
+756,384,PD,1.762,0.977999,On medication,On DBS,No,Uses arms of chair,2.0
+759,384,PD,3.189999,1.891,On medication,On DBS,No,"Slow
+Uses arms of chair",2.0
+762,384,PD,3.328,1.162999,Off medication,Off DBS,Yes,,0.0
+763,384,PD,2.791,1.752,Off medication,Off DBS,Yes,"Uses arms of chair
+Slow",2.0
+764,384,PD,3.023,2.316999,Off medication,Off DBS,Yes,"Uses arms of chair
+Slow",2.0
+765,384,PD,2.603999,1.708,Off medication,Off DBS,Yes,"Uses arms of chair
+Slow",2.0
+766,384,PD,1.296,1.116,Off medication,Off DBS,Yes,Uses arms of chair,2.0
+767,384,PD,1.532999,1.154,Off medication,Off DBS,Yes,Uses arms of chair,2.0
+770,384,PD,2.295,1.428,Off medication,On DBS,Yes,Slow,1.0
+771,384,PD,2.949999,1.78,Off medication,On DBS,Yes,"Uses arms of chair
+Slow",2.0
+772,384,PD,2.923,1.644999,Off medication,On DBS,Yes,"Uses arms of chair
+Slow",2.0
+773,384,PD,3.648999,1.796,Off medication,On DBS,Yes,"Uses arms of chair
+Slow",2.0
+774,384,PD,2.145,1.558999,Off medication,On DBS,No,"Uses arms of chair
+Slow",2.0
+777,384,PD,2.114,0.899,On medication,On DBS,Yes,Uses arms of chair,2.0
+778,384,PD,1.826999,0.871,On medication,On DBS,Yes,Uses arms of chair,2.0
+779,384,PD,1.982,1.063,On medication,On DBS,Yes,Uses arms of chair,2.0
+780,384,PD,1.632999,0.97,On medication,On DBS,Yes,,
+783,971,C,1.584999,0.824999,Control,Control,Yes,,0.0
+785,971,C,1.435,0.694999,Control,Control,Yes,,0.0
+786,971,C,1.397999,0.65,Control,Control,Yes,,0.0
+794,971,C,2.299,0.890999,Control,Control,No,,0.0
+795,971,C,2.031,1.044,Control,Control,No,,0.0
+796,971,C,1.301999,0.94,Control,Control,No,,0.0
+797,971,C,1.695999,0.790999,Control,Control,No,Carrying something,0.0
+802,971,C,1.254,0.864,Control,Control,No,Carrying something,0.0
+811,971,C,1.376,0.652,Control,Control,Yes,,0.0
+812,971,C,1.397999,0.871,Control,Control,Yes,,0.0
+813,971,C,1.539,0.847999,Control,Control,Yes,,0.0
+814,971,C,1.367,0.803,Control,Control,Yes,,0.0
+815,971,C,1.398,0.856999,Control,Control,Yes,,0.0
+816,971,C,1.182999,0.692999,Control,Control,Yes,,0.0
+817,971,C,1.278999,0.587,Control,Control,Yes,,0.0

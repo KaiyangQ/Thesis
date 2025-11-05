@@ -1,0 +1,24 @@
+from synapseclient import Synapse
+from synapseutils import syncFromSynapse
+import os
+
+# 初始化 Synapse 客户端
+syn = Synapse()
+
+# 登录 Synapse（用你的访问令牌替换下面的字符串）
+syn.login(authToken='eyJ0eXAiOiJKV1QiLCJraWQiOiJXN05OOldMSlQ6SjVSSzpMN1RMOlQ3TDc6M1ZYNjpKRU9VOjY0NFI6VTNJWDo1S1oyOjdaQ0s6RlBUSCIsImFsZyI6IlJTMjU2In0.eyJhY2Nlc3MiOnsic2NvcGUiOlsidmlldyIsImRvd25sb2FkIl0sIm9pZGNfY2xhaW1zIjp7fX0sInRva2VuX3R5cGUiOiJQRVJTT05BTF9BQ0NFU1NfVE9LRU4iLCJpc3MiOiJodHRwczovL3JlcG8tcHJvZC5wcm9kLnNhZ2ViYXNlLm9yZy9hdXRoL3YxIiwiYXVkIjoiMCIsIm5iZiI6MTc0NDIyNTk1MSwiaWF0IjoxNzQ0MjI1OTUxLCJqdGkiOiIxODgxMiIsInN1YiI6IjM1MzgzMDcifQ.Cvd2Ih9tBX8lfAdl9x9SEh-jJzBB_aw6fVQQDnzK6OkmG6deym2YRXl7nkVxeCrX4QpiRsrVPy_el0dW_Hsnklp0_kqFWAw3tTk_K6nn-X4ueZA-wo08qytkoFx6oPLnt1-m0vIM_RDeP8daY4qRakf5LwQCwP2DmTDjrO4E0kKwbf1s5zwTF4syZ3bbWbGs0Q51Zo5uEiMJI23X86aGx8u0Y1lc0Ili7PJ3-GJIzfNsNtzMkjczaPnGJQHsjNUkpja98FYLDk9UYEvjvOraG_y-AsibS_YIl_hOCC2nFgLJQ5m2RMIxNKHe2al9W5dSDMVUStLqIpfpdne_hkB-Hw')  # ← 修改这里！
+
+# 要下载的 Synapse 文件夹 ID
+folder_id = 'syn4993293'
+
+# 本地保存目录
+local_directory = r"D:\Courses\thesis\data\syn4993293"
+
+# 如果目录不存在，自动创建
+if not os.path.exists(local_directory):
+    os.makedirs(local_directory)
+
+# 下载整个文件夹及其子文件
+syncFromSynapse(syn, folder_id, path=local_directory)
+
+print("✅ 所有文件已成功下载到本地！")

@@ -1,0 +1,151 @@
+Turn ID,Participant ID number,PD_or_C,number_of_turning_steps,turning_angle,type_of_turn,turning_duration,On_or_Off_medication,DBS_state,clinical_assessment,Actual Turning Duration,Predicted Turning Duration
+41,842,PD,2,180_degrees,pivot_turn,1.531,On medication,On DBS,Yes,2.094999,1.7847722670327437
+50,842,PD,3,180_degrees,pivot_turn,1.292,On medication,On DBS,Yes,2.189999,2.1606346187716143
+54,842,PD,3,180_degrees,pivot_turn,1.520999,On medication,On DBS,Yes,1.246999,1.7847722670327437
+93,842,PD,3,135_degrees,step_turn,2.4,On medication,On DBS,No,2.287,2.044227259165604
+106,842,PD,2,90_degrees,step_turn,1.804999,On medication,On DBS,No,1.554,1.7865613903592428
+107,842,PD,4,90_degrees,step_turn,2.375,On medication,On DBS,No,1.419,1.7847722670327437
+109,842,PD,4,180_degrees,pivot_turn,2.004999,On medication,On DBS,No,1.804999,3.035989494740487
+118,842,PD,3,180_degrees,pivot_turn,2.247,On medication,On DBS,No,1.817999,2.1606346187716143
+135,842,PD,2,90_degrees,pivot_turn,1.676,On medication,On DBS,No,1.285999,1.945121482596079
+153,842,PD,2,90_degrees,pivot_turn,1.47,On medication,On DBS,No,1.572,1.7847722670327437
+154,842,PD,4,135_degrees,step_turn,4.501,On medication,On DBS,No,2.643,2.0926559594197105
+167,842,PD,3,180_degrees,pivot_turn,2.432,On medication,On DBS,No,1.818,1.7847722670327437
+174,842,PD,2,90_degrees,pivot_turn,5.421999,On medication,On DBS,No,1.241999,1.9393229834596897
+177,842,PD,1,90_degrees,step_turn,2.341,On medication,On DBS,No,1.81,2.096770512768321
+179,842,PD,4,180_degrees,pivot_turn,3.257999,On medication,On DBS,No,1.864,1.7847722670327437
+185,842,PD,2,90_degrees,pivot_turn,1.536999,On medication,On DBS,No,1.464999,1.7865613903592428
+189,842,PD,1,90_degrees,pivot_turn,1.079,On medication,On DBS,No,2.247,2.044227259165604
+194,842,PD,3,180_degrees,pivot_turn,2.446,On medication,On DBS,No,1.898999,1.9393229834596897
+197,842,PD,2,90_degrees,pivot_turn,2.895,On medication,On DBS,No,2.238,2.096770512768321
+198,842,PD,3,135_degrees,pivot_turn,2.005999,On medication,On DBS,No,1.714,1.7176189494782588
+199,842,PD,3,90_degrees,pivot_turn,2.726,On medication,On DBS,No,2.761999,1.729613045984771
+202,842,PD,3,90_degrees,pivot_turn,3.934,On medication,On DBS,No,3.865999,1.7336858601292275
+208,842,PD,12,135_degrees,step_turn,6.741999,On medication,On DBS,No,3.381,2.858026521608345
+211,842,PD,8,180_degrees,step_turn,5.332999,On medication,On DBS,No,1.952999,2.096770512768321
+223,842,PD,5,180_degrees,pivot_turn,3.334,On medication,On DBS,No,3.257999,2.888721518278258
+325,842,PD,4,180_degrees,pivot_turn,2.643,On medication,On DBS,Yes,2.577,2.094189129523348
+329,842,PD,5,180_degrees,pivot_turn,2.928,On medication,On DBS,Yes,1.927,1.7865613903592428
+341,842,PD,2,90_degrees,pivot_turn,1.624999,On medication,On DBS,No,1.871,1.68446624965177
+392,396,PD,5,180_degrees,step_turn,2.248999,On medication,-,No,1.317999,1.7816706715847175
+417,396,PD,4,90_degrees,step_turn,2.051,On medication,-,No,2.181999,2.7490890974604696
+467,396,PD,2,90_degrees,pivot_turn,1.246999,On medication,-,No,2.428,1.4651810495102426
+565,396,PD,4,180_degrees,-,2.197999,On medication,-,Yes,2.048,1.7847722670327437
+604,412,PD,4,180_degrees,step_turn,1.817999,On medication,-,Yes,1.618999,1.7816706715847175
+609,412,PD,3,180_degrees,step_turn,1.772999,On medication,-,Yes,3.095,2.738037150518555
+683,412,PD,3,90_degrees,pivot_turn,1.681999,On medication,-,No,1.428,2.094189129523348
+684,412,PD,2,90_degrees,pivot_turn,1.363,On medication,-,No,2.005999,2.0919561969636384
+718,412,PD,1,90_degrees,pivot_turn,1.045,On medication,-,No,1.135999,1.4651810495102426
+747,412,PD,2,90_degrees,pivot_turn,1.362999,On medication,-,No,2.524,1.7847722670327437
+847,412,PD,2,135_degrees,pivot_turn,1.953999,On medication,-,No,3.934,2.050489428757843
+874,412,PD,2,90_degrees,step_turn,1.3,On medication,-,No,1.42,1.4651810495102426
+890,412,PD,1,90_degrees,pivot_turn,1.135999,On medication,-,No,2.895,1.945121482596079
+891,412,PD,2,90_degrees,pivot_turn,1.864,On medication,-,No,1.524,1.729613045984771
+895,412,PD,1,90_degrees,pivot_turn,1.182,On medication,-,No,2.004999,2.888721518278258
+898,412,PD,1,90_degrees,pivot_turn,1.090999,On medication,-,No,2.051,2.6697742827078788
+901,412,PD,3,135_degrees,pivot_turn,1.772999,On medication,-,No,1.284999,1.7847722670327437
+912,412,PD,2,135_degrees,pivot_turn,1.317999,On medication,-,No,1.666,1.7847722670327437
+922,412,PD,4,135_degrees,pivot_turn,2.181999,On medication,-,No,1.667,1.7847722670327437
+940,412,PD,2,90_degrees,pivot_turn,1.728,On medication,-,No,3.0,2.8889670274537376
+955,412,PD,3,90_degrees,pivot_turn,2.045999,On medication,-,No,1.258,1.31009418914219
+991,412,PD,3,90_degrees,pivot_turn,2.219,On medication,-,No,1.143,1.4651810495102426
+1142,631,PD,2,135_degrees,pivot_turn,1.898999,On medication,On DBS,No,1.520999,1.7176189494782588
+1143,631,PD,2,180_degrees,pivot_turn,1.927,On medication,On DBS,No,2.095,1.7847722670327437
+1145,631,PD,3,180_degrees,pivot_turn,2.287,On medication,On DBS,No,1.097,1.3730186217196811
+1169,631,PD,3,180_degrees,pivot_turn,1.348999,On medication,On DBS,Yes,2.142999,2.096770512768321
+1176,631,PD,4,180_degrees,pivot_turn,2.451999,On medication,On DBS,Yes,1.427999,1.7847722670327437
+1180,631,PD,3,180_degrees,pivot_turn,1.476999,On medication,On DBS,Yes,1.624999,1.945121482596079
+1190,631,PD,2,180_degrees,pivot_turn,1.983,On medication,On DBS,No,1.857,1.7847722670327437
+1194,631,PD,2,180_degrees,pivot_turn,1.464999,On medication,On DBS,No,2.446,2.044227259165604
+1216,631,PD,2,135_degrees,pivot_turn,1.241999,On medication,On DBS,No,3.538,2.8651624396293807
+1228,631,PD,3,180_degrees,pivot_turn,1.551,On medication,On DBS,No,1.47,1.945121482596079
+1257,631,PD,2,90_degrees,pivot_turn,2.404999,On medication,On DBS,No,1.348999,1.7176189494782588
+1267,631,PD,2,180_degrees,pivot_turn,1.554,On medication,On DBS,No,1.3,1.7379648580824687
+1306,631,PD,2,90_degrees,pivot_turn,1.145,On medication,On DBS,No,2.38,1.7336858601292275
+1336,467,PD,2,90_degrees,pivot_turn,2.0,On medication,-,No,1.236999,1.68446624965177
+1342,467,PD,2,90_degrees,pivot_turn,1.818,On medication,-,No,2.451999,2.0926559594197105
+1375,467,PD,4,180_degrees,pivot_turn,1.952999,On medication,-,Yes,1.728,1.7847722670327437
+1390,467,PD,4,180_degrees,pivot_turn,2.142999,On medication,-,Yes,2.404999,1.945121482596079
+1394,467,PD,3,180_degrees,pivot_turn,1.871,On medication,-,Yes,2.341,1.6628865297021949
+1395,467,PD,2,90_degrees,step_turn,1.322999,On medication,-,Yes,2.142999,2.1189255652004255
+1463,467,PD,1,90_degrees,pivot_turn,1.224999,On medication,-,No,1.238,1.31009418914219
+1588,467,PD,2,90_degrees,pivot_turn,1.226,On medication,-,No,2.143,1.7847722670327437
+1638,467,PD,4,180_degrees,step_turn,1.804999,On medication,-,No,1.760999,1.7847722670327437
+1752,467,PD,5,180_degrees,step_turn,3.095,On medication,-,Yes,1.476999,1.7176189494782588
+1762,467,PD,1,90_degrees,pivot_turn,2.428,On medication,-,No,2.285999,1.7847722670327437
+1792,324,PD,4,180_degrees,step_turn,2.189999,On medication,-,Yes,1.064999,1.4651810495102426
+1798,324,PD,4,180_degrees,pivot_turn,2.475999,On medication,-,Yes,2.332999,2.094189129523348
+1799,324,PD,4,180_degrees,pivot_turn,2.238,On medication,-,Yes,3.094999,2.1297508247910533
+1812,324,PD,1,90_degrees,pivot_turn,1.064999,On medication,-,No,1.079,1.7980083266242022
+1819,324,PD,1,180_degrees,pivot_turn,1.097,On medication,-,No,1.090999,1.4651810495102426
+1829,324,PD,3,180_degrees,pivot_turn,1.428,On medication,-,No,1.773999,1.7847722670327437
+1837,324,PD,1,90_degrees,pivot_turn,1.143,On medication,-,No,2.219,2.192599910575895
+1858,324,PD,1,90_degrees,pivot_turn,1.380999,On medication,-,No,5.421999,1.945121482596079
+1869,324,PD,1,90_degrees,pivot_turn,1.678,On medication,-,No,2.744,1.7816706715847175
+1889,324,PD,2,90_degrees,pivot_turn,1.773999,On medication,-,No,1.918999,2.265019011586146
+1973,324,PD,2,90_degrees,pivot_turn,1.419,On medication,-,No,1.676,1.945121482596079
+2132,324,PD,2,180_degrees,pivot_turn,1.258,On medication,-,Yes,1.952,1.4651810495102426
+2170,324,PD,2,90_degrees,pivot_turn,1.428999,On medication,-,No,1.645,1.7336858601292275
+2203,596,PD,1,90_degrees,pivot_turn,1.42,On medication,-,No,2.048,1.7816706715847175
+2212,596,PD,1,90_degrees,pivot_turn,1.161,On medication,-,No,1.565,1.7847722670327437
+2237,596,PD,3,180_degrees,pivot_turn,2.332999,On medication,-,No,1.292,1.7176189494782588
+2243,596,PD,2,90_degrees,pivot_turn,2.143,On medication,-,No,1.524,2.096770512768321
+2245,596,PD,2,90_degrees,pivot_turn,1.284999,On medication,-,No,2.4,1.9665647199928558
+2249,596,PD,2,90_degrees,pivot_turn,1.952,On medication,-,No,2.204,2.192599910575895
+2250,596,PD,2,90_degrees,pivot_turn,2.524,On medication,-,No,2.619,2.096770512768321
+2260,596,PD,2,90_degrees,pivot_turn,1.524,On medication,-,No,2.928,2.3709609124314897
+2263,596,PD,2,90_degrees,pivot_turn,2.285999,On medication,-,No,1.224999,1.4651810495102426
+2267,596,PD,2,135_degrees,pivot_turn,2.048,On medication,-,No,1.790999,1.7847722670327437
+2270,596,PD,4,135_degrees,step_turn,3.476,On medication,-,No,1.551,2.044227259165604
+2280,596,PD,2,135_degrees,pivot_turn,1.618999,On medication,-,No,2.248999,3.185708361428642
+2286,596,PD,2,180_degrees,pivot_turn,2.761999,On medication,-,No,1.045,1.4651810495102426
+2287,596,PD,1,90_degrees,pivot_turn,2.095,On medication,-,No,5.332999,3.9980641380260455
+2311,596,PD,2,90_degrees,pivot_turn,2.095,On medication,-,No,1.161,1.4651810495102426
+2314,596,PD,2,90_degrees,pivot_turn,2.048,On medication,-,No,1.531,1.2648915027783467
+2325,596,PD,2,90_degrees,pivot_turn,1.667,On medication,-,No,1.615,1.7847722670327437
+2354,596,PD,1,90_degrees,pivot_turn,1.952,On medication,-,No,1.772999,1.6581940769942785
+2501,596,PD,2,180_degrees,pivot_turn,1.238,On medication,-,Yes,1.804999,1.9949725507628204
+2507,596,PD,2,90_degrees,pivot_turn,1.857,On medication,-,No,6.64,2.6697742827078788
+2546,384,PD,4,90_degrees,pivot_turn,3.381,On medication,On DBS,No,2.789999,2.2738454964056
+2608,384,PD,2,90_degrees,pivot_turn,1.380999,On medication,On DBS,No,3.476,2.8651624396293807
+2623,384,PD,2,90_degrees,pivot_turn,1.285999,On medication,On DBS,No,1.681999,2.192599910575895
+2743,384,PD,3,180_degrees,pivot_turn,1.714,On medication,On DBS,Yes,1.431,1.7847722670327437
+2757,398,PD,3,90_degrees,step_turn,3.094999,On medication,-,No,2.055,1.7847722670327437
+2793,398,PD,4,180_degrees,pivot_turn,1.524,On medication,-,Yes,1.362999,1.7847722670327437
+2810,398,PD,2,90_degrees,pivot_turn,1.760999,On medication,-,No,2.850999,2.1921484533368703
+2842,398,PD,2,90_degrees,pivot_turn,1.666,On medication,-,No,1.428999,1.7847722670327437
+2844,398,PD,2,90_degrees,pivot_turn,2.141999,On medication,-,No,1.58,2.1921484533368703
+2916,398,PD,4,180_degrees,pivot_turn,3.0,On medication,-,No,2.172,2.096770512768321
+2946,398,PD,2,90_degrees,pivot_turn,2.094999,On medication,-,No,1.145,1.945121482596079
+3159,744,PD,2,90_degrees,pivot_turn,1.615,On medication,-,No,2.141999,1.7847722670327437
+3185,744,PD,3,135_degrees,pivot_turn,1.918999,On medication,-,No,6.741999,7.14803628333334
+3187,744,PD,4,180_degrees,pivot_turn,2.172,On medication,-,Yes,3.884,2.1297508247910533
+3226,744,PD,3,90_degrees,pivot_turn,2.204,On medication,-,No,2.726,2.050489428757843
+3235,744,PD,3,90_degrees,-,2.850999,On medication,-,No,4.074999,3.035989494740487
+3248,744,PD,4,180_degrees,step_turn,4.074999,On medication,-,No,2.0,1.7847722670327437
+3249,744,PD,3,90_degrees,step_turn,3.884,On medication,-,No,2.872,2.8651624396293807
+3252,744,PD,4,90_degrees,step_turn,6.64,On medication,-,No,1.953999,1.7816706715847175
+3260,744,PD,3,90_degrees,step_turn,3.5,On medication,-,No,2.375,3.2050293858365135
+3285,744,PD,2,135_degrees,pivot_turn,2.744,On medication,-,No,1.524,1.7847722670327437
+3291,744,PD,4,135_degrees,step_turn,3.538,On medication,-,No,1.983,1.7865613903592428
+3292,744,PD,3,90_degrees,-,2.531,On medication,-,No,2.678999,2.192599910575895
+3294,744,PD,2,90_degrees,pivot_turn,2.055,On medication,-,No,2.045999,2.192599910575895
+3298,744,PD,4,135_degrees,step_turn,2.872,On medication,-,No,4.501,3.2474671457734443
+3303,744,PD,2,90_degrees,-,3.865999,On medication,-,No,1.182,1.4651810495102426
+3305,744,PD,2,90_degrees,pivot_turn,1.431,On medication,-,No,1.226,1.7847722670327437
+3315,744,PD,2,90_degrees,pivot_turn,1.790999,On medication,-,No,1.380999,1.945121482596079
+3372,744,PD,2,90_degrees,pivot_turn,1.565,On medication,-,No,2.475999,2.096770512768321
+3388,744,PD,3,90_degrees,pivot_turn,2.678999,On medication,-,No,1.772999,2.265019011586146
+3405,744,PD,4,180_degrees,step_turn,3.612999,On medication,-,No,1.322999,1.680600301986112
+3427,744,PD,3,180_degrees,pivot_turn,2.577,On medication,-,No,2.432,2.044227259165604
+3438,744,PD,3,135_degrees,-,2.789999,On medication,-,No,2.095,1.4651810495102426
+3484,253,PD,3,180_degrees,pivot_turn,1.236999,On medication,-,Yes,1.678,1.4651810495102426
+3487,253,PD,4,180_degrees,-,2.142999,On medication,-,Yes,1.363,1.7847722670327437
+3502,253,PD,3,90_degrees,-,1.58,On medication,-,No,1.380999,1.4651810495102426
+3536,253,PD,2,90_degrees,-,1.645,On medication,-,No,1.952,1.7847722670327437
+3554,253,PD,2,90_degrees,-,2.38,On medication,-,No,2.197999,2.1189255652004255
+3727,253,PD,2,90_degrees,pivot_turn,1.572,On medication,-,No,3.5,2.1297508247910533
+3728,253,PD,2,180_degrees,pivot_turn,1.524,On medication,-,No,3.334,3.312051376977233
+3731,253,PD,2,90_degrees,pivot_turn,1.427999,On medication,-,No,2.531,2.1921484533368703
+3738,253,PD,4,180_degrees,pivot_turn,2.619,On medication,-,Yes,3.612999,3.035989494740487
+3739,253,PD,4,180_degrees,pivot_turn,1.81,On medication,-,Yes,1.536999,1.945121482596079
